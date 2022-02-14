@@ -1,11 +1,11 @@
 export const creators = [
     { 
-        "address" : '<creator1PubkeyAsString>',
-        "share" : 50 // change as needed
+        "address" : 'DSB7Ts7LoZM36PR2LywUQpoRgBp5e94DLhV83Bt6Fdfd',
+        "share" : 70 // change as needed
     },
     { 
-        "address" : '<creator2PubkeyAsString>',
-        "share": 50
+        "address" : '2Ms4Rz1CTtA6ZXAzQ36bh6EU6LBSDHd411YcrgeHW9qq',
+        "share": 30
     } // add or remove creators as needed
 ]
 
